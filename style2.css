@@ -1,0 +1,28 @@
+ html{
+    height: 100%;
+    background-color: black;
+}
+
+body{
+    font-family: arial,sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+
+.container{
+    height: 100%;
+    background-color: orange;
+    display: flex;
+    flex-direction: column;
+}
+
+.main{
+    margin: auto;
+}
+
+/*
+img{
+    height: 50px;
+} */
